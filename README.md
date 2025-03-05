@@ -19,17 +19,17 @@ You will find the full dataset in `data/nsclc.csv`. Class labels are encoded in 
 
 ## Tasks + Grading
 * Algorithm Implementation (6):
-  [x] Complete the `make_prediction` method (2)
-  [x] Complete the `loss_function` method (2)
-  [x] Complete the `calculate_gradient` method (2)
+  * [x] Complete the `make_prediction` method (2)
+  * [x] Complete the `loss_function` method (2)
+  * [x] Complete the `calculate_gradient` method (2)
 * Unit tests (3):
-  [x] Unit test for `test_prediction`
-  [x] Unit test for `test_loss_function`
-  [x] Unit test for `test_gradient`
-  [x] Unit test for `test_training`
+  * [x] Unit test for `test_prediction`
+  * [x] Unit test for `test_loss_function`
+  * [x] Unit test for `test_gradient`
+  * [x] Unit test for `test_training`
 * Code Readability (1)
 * Extra credit (0.5)
-  [x] Github actions and workflows (up to 0.5)
+  * [x] Github actions and workflows (up to 0.5)
 
 ## Getting started
 
